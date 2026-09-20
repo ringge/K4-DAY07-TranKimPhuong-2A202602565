@@ -1,72 +1,54 @@
 ---
-doc_id: "doi-tra-hang-thegioinem"
-title: "Chính sách đổi trả hoàn tiền tại Thegioinem.com"
-source_url: "https://thegioinem.com/chinh-sach-doi-tra-va-hoan-tien"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "buyer"
-category: "doi-tra-hang"
+doc_id: doi-tra-hang-thegioinem
+title: Chính sách đổi trả và hoàn tiền
+source_url: https://thegioinem.com/chinh-sach-doi-tra-va-hoan-tien
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: buyer
+category: doi-tra-hang
 ---
 
-# Chính sách đổi trả hoàn tiền tại Thegioinem.com
-
-Chính sách đổi trả hoàn tiền tại Thegioinem.com
-
-Trang chủ
-
-Chính sách đổi trả
-
-Chính sách đổi trả
+# Chính sách đổi trả và hoàn tiền
 
 Khi mua hàng tại Thế Giới Nệm, quý khách hàng có thể hoàn toàn yên tâm khi gặp bất kỳ sự cố nào từ kỹ thuật hay bất cứ lỗi nào từ phía chúng tôi. Với phương châm "Quyền lợi khách hàng là trên hết", Thegioinem.com luôn mong muốn đem đến cho quý khách hàng những giá trị tốt nhất.
 
-1. QUY ĐỊNH ĐỔI HÀNG
+## 1. Quy định đổi hàng
 
-1.1/ Đổi Hàng Do Lỗi Kỹ Thuật – ĐỔI HÀNG MIỄN PHÍ
+### 1.1. Đổi hàng miễn phí do lỗi kỹ thuật
 
-Trường hợp 1: Giao sai hàng
+#### Trường hợp 1: Giao sai hàng
 
 Thegioinem.com khuyến khích quý khách hàng phải kiểm tra sản phẩm trước khi thanh toán để đảm bảo rằng hàng hóa được giao đúng: chủng loại, số lượng, màu sắc theo đơn đặt hàng và tình trạng bên ngoài không bị tác động (Rách vải/ Rách tem).
 
-Trường hợp: Nếu sản phẩm được giao không đúng hoặc không đảm bảo nguyên vẹn thì quý khách có thể từ chối nhận hàng và liên hệ ngay cho bộ phận hỗ trợ chăm sóc khách hàng để được xử lý kịp thời và đổi/trả sản phẩm trong thời gian sớm nhất có thể.
+Nếu sản phẩm được giao không đúng hoặc không bảo đảm nguyên vẹn, Quý khách có thể từ chối nhận hàng và liên hệ ngay bộ phận chăm sóc khách hàng để được xử lý, đổi/trả sản phẩm.
 
-​Lưu ý: Sau 14 ngày kể từ ngày quý khách nhận hàng, Công ty có quyền từ chối hỗ trợ cho những khiếu nại theo nội dung như trên.
+> **Lưu ý:** Sau 14 ngày kể từ ngày Quý khách nhận hàng, Công ty có quyền từ chối hỗ trợ những khiếu nại nêu trên.
 
-Trường hợp 2: Hàng giao bị lỗi kĩ thuật
+#### Trường hợp 2: Hàng giao bị lỗi kỹ thuật
 
 Khi quý khách phát hiện sản phẩm bị lỗi kỹ thuật bên trong ( Ruột nệm bị xẹp - Áo Vải bị rách). Quý khách vui lòng thực hiện các bước sau đây:
 
-Bước 1: Quý khách liên hệ hotline: 0906 677 325 – 0909 060 325 để thông báo hiện trạng của sản phẩm. Tại đây, nhân viên chăm sóc khách hàng sẽ thu thập thông tin và kết nối với nhà sản xuất để giải quyết các vấn đề có liên quan về lỗi sản phẩm cho khách hàng.
+1. Quý khách liên hệ hotline 0906 677 325 – 0909 060 325 để thông báo hiện trạng sản phẩm. Nhân viên chăm sóc khách hàng sẽ thu thập thông tin và kết nối với nhà sản xuất để giải quyết vấn đề liên quan đến lỗi sản phẩm.
 
-Bước 2: Nhân viên kỹ thuật của bộ phận bảo hành sẽ đến tận nhà kiểm tra trạng hàng hóa (nệm) cho quý khách, nếu xác nhận là do lỗi kỹ thuật thì công ty sẽ giải quyết đổi hàng MIỄN PHÍ theo đúng quy định.
+2. Nhân viên kỹ thuật của bộ phận bảo hành sẽ đến nhà kiểm tra hàng hóa (nệm). Nếu xác nhận lỗi kỹ thuật, công ty sẽ đổi hàng miễn phí theo quy định.
 
 Theo kinh nghiệm của chúng tôi, hơn một nửa sản phẩm hoàn về vì lí do lỗi kỹ thuật sau khi được bộ phận kĩ thuật kiểm tra đều được đánh giá sản phẩm nằm trong điều kiện sử dụng hoàn hảo. Vì vậy, để tiết kiệm thời gian và thuận tiện cho quý khách, vui lòng đọc kĩ hướng dẫn sử dụng hoặc liên hệ tham vấn trực tiếp với bộ phận chăm sóc khách hàng để chắc rằng sản phẩm không còn nguyên vẹn & bị lỗi kỹ thuật.
 
-1.2/ Đổi Hàng Theo Nhu Cầu Của Khách Hàng
+### 1.2. Đổi hàng theo nhu cầu của khách hàng
 
-SẢN PHẨM THỜI GIAN TRẠNG THÁI HÀNG HÓA PHÍ ĐỔI HÀNG
+| Sản phẩm | Thời gian | Tình trạng hàng hóa | Phí đổi hàng |
+| --- | --- | --- | --- |
+| Phụ kiện phòng ngủ (chăn, ga, gối cao su) | Trong vòng 14 ngày kể từ lúc nhận hàng | Chưa qua sử dụng; bao bì nguyên vẹn; không bẩn, rách, chưa giặt, chưa tẩy. | Quý khách chủ động mang hàng đến cửa hàng. Sản phẩm đổi phải có giá trị ngang bằng hoặc cao hơn sản phẩm hiện tại. |
+| Nệm kích thước chuẩn | Trong vòng 14 ngày kể từ ngày nhận hàng | Chưa sử dụng hoặc đã sử dụng nhưng còn đầy đủ bao bì, tem và phiếu bảo hành. Không đổi hàng bị bẩn, rách hoặc hỏng. | Miễn phí đổi hàng trong vòng 14 ngày, kèm phí vận chuyển nếu có theo chính sách vận chuyển. Khách hàng được đổi một lần; sản phẩm đổi phải có giá trị ngang bằng hoặc cao hơn sản phẩm hiện tại. |
+| Hàng ngoại khổ | Không áp dụng | Không áp dụng | Không áp dụng |
 
-Phụ kiện phòng ngủ (Chăn, ga, gối cao su) Trong vòng 14 ngày kể từ lúc nhận hàng Chưa qua sử dụng, bao bì nguyên vẹn, không bẩn, rách, chưa giặt, chưa tẩy. Quý khách vui lòng chủ động mang hàng hóa đến cửa hàng để được đổi hàng.
+## 2. Quy định trả hàng
 
-Lưu ý sản phẩm đổi phải có giá trị ngang nhau hoặc cao hơn sản phẩm hiện tại.
-
-Nệm kích thước chuẩn Trong vòng 14 ngày kể từ ngày nhận hàng. Chưa sử dụng hoặc đã sử dụng nhưng vẫn còn đầy đủ bao bì, tem, phiếu bảo hành. Không đổi hàng hóa khi bị bẩn, rách, hỏng. MIỄN PHÍ ĐỐI HÀNG TRONG VÒNG 14 NGÀY. Kèm phí vận chuyển (Nếu có theo chính sách vận chuyển)
-
-Khách hàng được đổi duy nhất 1 lần. Lưu ý sản phẩm đổi phải có giá trị ngang nhau hoặc cao hơn sản phẩm hiện tại.
-
-Hàng ngoại khổ Không đổi trả hàng hóa Không đổi trả hàng hóa Không đổi trả hàng hóa
-
-2. QUY ĐỊNH TRẢ HÀNG
-
-SẢN PHẨM THỜI GIAN TÌNH TRẠNG HÀNG HÓA PHÍ TRẢ HÀNG
-
-Phụ kiện phòng ngủ (Chăn, ga, gối cao su) Trong vòng 14 ngày kể từ ngày nhận hàng Chưa qua sử dụng, bao bì nguyên vẹn, không bẩn, rách, chưa giặt, chưa tẩy. Quý khách vui lòng chủ động mang hàng hóa đến cửa hàng để được đổi hàng.
-
-Phí trả hàng: Mất phí 10% giá trị hàng hóa
-
-Nệm kích thước chuẩn Trong vòng 14 ngày kể từ ngày nhận hàng Chưa sử dụng hoặc đã sử dụng nhưng vẫn còn đầy đủ bao bì, tem, phiếu bảo hành. Không đổi hàng khi bị bẩn, rách, hỏng. Phí trả hàng: Mất phí 10% giá trị hàng hóa. Kèm phí vận chuyển (Nếu có theo chính sách vận chuyển)
-
-Hàng ngoại khổ Không áp dụng trả hàng Không áp dụng trả hàng Không áp dụng trả hàng
+| Sản phẩm | Thời gian | Tình trạng hàng hóa | Phí trả hàng |
+| --- | --- | --- | --- |
+| Phụ kiện phòng ngủ (chăn, ga, gối cao su) | Trong vòng 14 ngày kể từ ngày nhận hàng | Chưa qua sử dụng; bao bì nguyên vẹn; không bẩn, rách, chưa giặt, chưa tẩy. Quý khách chủ động mang hàng đến cửa hàng. | 10% giá trị hàng hóa. |
+| Nệm kích thước chuẩn | Trong vòng 14 ngày kể từ ngày nhận hàng | Chưa sử dụng hoặc đã sử dụng nhưng còn đầy đủ bao bì, tem và phiếu bảo hành. Không trả hàng bị bẩn, rách hoặc hỏng. | 10% giá trị hàng hóa, kèm phí vận chuyển nếu có theo chính sách vận chuyển. |
+| Hàng ngoại khổ | Không áp dụng | Không áp dụng | Không áp dụng |
 
 Không áp dụng đổi trả hàng hóa đối với các sản phẩm ngoại khổ
 
@@ -78,9 +60,9 @@ Khách hàng vui lòng giữ lại túi nilong bọc nệm, tem trong thời gia
 
 Quy định này chỉ áp dụng cho việc đổi duy nhất 1 lần
 
-3. CHÍNH SÁCH: 102 NGÀY NGỦ THỬ - AN TÂM TRẢI NGHIỆM SẢN PHẨM TATANA
+## 3. Chính sách 102 ngày ngủ thử sản phẩm Tatana
 
-Nội dung chính sách:
+### Nội dung chính sách
 
 Khách hàng mua nệm cao su thiên nhiên Tatana được trải nghiệm sản phẩm tại nhà trong vòng 102 ngày kể từ ngày nhận hàng.
 
@@ -90,9 +72,9 @@ Nếu sau 102 ngày, khách hàng hài lòng, ngủ ngon và chia sẻ cảm nh�
 
 Chính sách này áp dụng để đảm bảo khách hàng có đủ thời gian cảm nhận sự thoải mái, nâng đỡ và chất lượng của nệm Tatana.
 
-Điều kiện áp dụng:
+### Điều kiện áp dụng
 
-Sản phẩm áp dụng:
+#### Sản phẩm áp dụng
 
 Chỉ áp dụng cho Nệm cao su thiên nhiên Tatana (10cm trở lên theo các kích thước nệm trên website), đạt chứng nhận ISO về quản lý chất lượng và Hàng Việt Nam Chất Lượng Cao, cam kết mang giấc ngủ êm ái, bền bỉ, và an toàn cho mọi gia đình
 
@@ -100,45 +82,41 @@ Không áp dụng cho các sản phẩm đặt làm theo kích thước riêng h
 
 Chỉ áp dụng duy nhất cùng chương trình khách hàng thân thiết
 
-Tình trạng sản phẩm:
+#### Tình trạng sản phẩm
 
 Nệm trả lại phải ở tình trạng chấp nhận được, không bị hư hại do tác động bên ngoài (cháy, rách, ẩm mốc, biến dạng vật lý, hoặc bẩn nghiêm trọng) và không có dấu hiệu sử dụng sai mục đích (ví dụ: dùng để trải sàn hoặc làm vật liệu khác).
 
 Khách hàng cần giữ lại chứng từ mua hàng, bao bì sản phẩm và các phụ kiện đi kèm (nếu có) để hỗ trợ quá trình thu hồi.
 
-Thời hạn:
+#### Thời hạn
 
 Yêu cầu trả hàng phải được gửi trong vòng 102 ngày kể từ ngày nhận nệm.
 
 Thời gian xử lý hoàn tiền: Trong vòng 14 ngày làm việc kể từ khi Thế Giới Nệm nhận lại sản phẩm và xác nhận đạt điều kiện.
 
-Kênh mua hàng:
+#### Kênh mua hàng
 
 Chỉ áp dụng cho các đơn hàng mua trực tiếp từ Thế Giới Nệm, không áp dụng cho các đơn hàng từ đại lý hoặc nhà phân phối bên thứ ba.
 
-Quy trình đổi/ trả hàng:
+### Quy trình đổi/trả hàng
 
 Khách hàng liên hệ Thế Giới Nệm qua:
 
-Hotline: 0707 325 325
+- Hotline: 0707 325 325
 
-Email: thegioinem.com@gmail.com
+- Email: thegioinem.com@gmail.com
 
-Hoặc điền form bên dưới:
+- Hoặc điền biểu mẫu đăng ký đổi/trả hàng “102 ngày ngủ thử cùng Tatana”.
 
-102 NGÀY NGỦ THỬ CÙNG TATANA
+1. Nhân viên kiểm tra thông tin đơn hàng và xác nhận tình trạng sản phẩm.
 
-ĐĂNG KÝ ĐỔI/TRẢ HÀNG
+2. Thế Giới Nệm sắp xếp đội vận chuyển đến thu hồi nệm miễn phí tại địa chỉ khách hàng cung cấp.
 
-Nhân viên kiểm tra thông tin đơn hàng và xác nhận tình trạng sản phẩm.
+3. Sau khi xác nhận sản phẩm đạt điều kiện trả hàng, Thế Giới Nệm hoàn 100% giá trị sản phẩm vào tài khoản ngân hàng của khách hàng (hoặc thẻ tín dụng, nếu mua trả góp) trong vòng 14 ngày làm việc.
 
-Thế Giới Nệm sắp xếp đội vận chuyển đến thu hồi nệm tại địa chỉ khách hàng cung cấp miễn phí.
+### Chương trình tặng 1 triệu đồng cho khách hàng chia sẻ cảm nhận
 
-Sau khi kiểm tra sản phẩm đạt điều kiện trả hàng, Thế Giới Nệm hoàn tiền 100% giá trị sản phẩm vào tài khoản ngân hàng của khách hàng (hoặc thẻ tín dụng, nếu mua trả góp) trong vòng 14 ngày làm việc.
-
-Chương trình tặng 1 TRIỆU ĐỒNG cho khách hàng chia sẻ cảm nhận:
-
-Điều kiện nhận tiền:
+#### Điều kiện nhận tiền
 
 Khách hàng không yêu cầu trả hàng sau 102 ngày.
 
@@ -150,7 +128,7 @@ Khách hàng không được đổi hoặc trả hàng khi đã nhận được 
 
 Bài chia sẻ đăng ở chế độ công khai ít nhất 10 ngày kèm hashtag #TheGioiNem #Tatana #102NgayNguThuCungTatana và gửi link bài viết về Thế Giới Nệm qua zalo, fanpage.
 
-Hình thức trao tặng:
+#### Hình thức trao tặng
 
 Tiền sẽ được Thế Giới Nệm chuyển khoản ngân hàng hoặc cấp voucher mua sắm trị giá 1 triệu đồng (khách hàng chọn một trong hai).
 
@@ -158,11 +136,11 @@ Thời gian xử lý: Trong vòng 14 ngày làm việc kể từ khi Thế Giớ
 
 Ví dụ: Nếu nệm Tatana có giá 10.000.000 VNĐ, khách hàng sẽ nhận lại 1.000.000 VNĐ (tiền mặt hoặc voucher) sau khi chia sẻ cảm nhận hợp lệ.
 
-Chi phí thu hồi:
+#### Chi phí thu hồi
 
 Miễn phí 100% cho tất cả các khu vực trên toàn quốc.
 
-Hoàn tiền:
+#### Hoàn tiền
 
 Số tiền hoàn lại bằng 100% giá trị nệm tại thời điểm mua, không trừ bất kỳ chi phí nào.
 
@@ -171,49 +149,3 @@ Số tiền hoàn lại bằng 100% giá trị nệm tại thời điểm mua, k
 Mọi thắc mắc quý khách vui lòng liên hệ hotline: 0707 325 325 - 0909 060 325 – 0906 677 325 để được đội ngũ nhân viên hỗ trợ giải đáp nhanh chóng.
 
 Thegioinem.com trân trọng cảm ơn quý khách!
-
-Chia sẻ:
-
-Sản phẩm nổi bật
-
-Nệm cao su thiên nhiên than hoạt tính TATANA Cool Grey
-
-9.448.000₫11.810.000₫-20%
-
-5 | 282 đánh giá | 335 đã bán
-
-Nệm foam đa tầng cao su Sleep Lux TATANA
-
-8.325.000₫11.100.000₫-25%
-
-5 | 48 đánh giá | 103 đã bán
-
-Nệm cao su thiên nhiên Vạn Thành Unique
-
-9.728.000₫12.160.000₫-20%
-
-5 | 99 đánh giá | 3.3k đã bán
-
-Nệm cao su thiên nhiên Kim Cương 5Zone AloeLux
-
-7.096.000₫8.870.000₫-20%
-
-5 | 67 đánh giá | 4.5k đã bán
-
-Nệm cao su nhân tạo mát lạnh gấp 3 TATANA
-
-2.955.000₫3.940.000₫-25%
-
-4.9 | 274 đánh giá | 312 đã bán
-
-Nệm Foam TATANA Luna Cool
-
-7.508.000₫10.010.000₫-25%
-
-5 | 281 đánh giá | 7.3k đã bán
-
-5 LỜI CAM KẾT TỪ THẾ GIỚI NỆM
-
-Liên hệ
-
-✕

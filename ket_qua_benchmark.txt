@@ -1,0 +1,54 @@
+=== Ecommerce Retrieval Benchmark ===
+Chunker: HeadingChunker
+Embedding: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+Đã nạp 78 chunks từ 5 files.
+
+[1] Query: Đối với người bán hoặc đại lý của PyLoHerb, chi phí vận chuyển và bốc dỡ được hỗ trợ như thế nào?
+    Filter: {'audience': 'seller'}
+    Gold: PyLoHerb hỗ trợ vận chuyển đơn hàng từ công ty đến đối tác bán hàng; chi phí bốc dỡ mỗi bên chịu một đầu.
+    Top-1: score=0.7375 doc_id=chinh-sach-ban-hang-seller-pyloherb chunk_id=chinh-sach-ban-hang-seller-pyloherb#9
+           ## III. Hỗ trợ đại lý - Hỗ trợ marketing. - Hỗ trợ cung cấp hình ảnh tư liệu. - Hỗ trợ đào tạo kiến thức, kỹ năng. - Hỗ trợ quyền lợi cho đại lý. - Hỗ trợ vận chuyển, bốc xếp. Hỗ t
+    Top-2: score=0.6292 doc_id=chinh-sach-ban-hang-seller-pyloherb chunk_id=chinh-sach-ban-hang-seller-pyloherb#2
+           ## II. Chính sách chiết khấu PyLoHerb gửi bảng giá chiết khấu dành cho gói khách hàng muốn trải nghiệm và gói kinh doanh ### Gói khách hàng trải nghiệm - PyLo Silver: Đơn hàng tối 
+    Top-3: score=0.5480 doc_id=chinh-sach-ban-hang-seller-pyloherb chunk_id=chinh-sach-ban-hang-seller-pyloherb#4
+           ## II. Chính sách chiết khấu - Đại lý cấp 2: Nhập đơn hàng 15.000.000 đồng (mười lăm triệu đồng) – chiết khấu 20%. - Đại lý cấp 1: Nhập đơn hàng 40.000.000 đồng (bốn mươi triệu đồn
+
+[2] Query: Theo chính sách HiClean, khách hàng đổi hàng từ ngày 04 đến ngày 07 phải chịu mức phí bao nhiêu?
+    Filter: {}
+    Gold: Khách hàng chịu 20% phí đổi hàng, phí vận chuyển, lắp đặt và phần chênh lệch giá trị hàng hóa nếu có.
+    Top-1: score=0.6590 doc_id=doi-tra-hang-hiclean chunk_id=doi-tra-hang-hiclean#8
+           ## Các trường hợp được trả hàng - Thời hạn trả hàng: 03 (ba) ngày kể từ ngày giao hàng ghi trên “Phiếu bán hàng”, quá thời hạn trên chúng tôi không hỗ trợ trả lại hàng. - Quý khách
+    Top-2: score=0.6490 doc_id=doi-tra-hang-thegioinem chunk_id=doi-tra-hang-thegioinem#10
+           ## 2. Quy định trả hàng Phí Đổi/Trả hàng (nếu có) chưa bao gồm chi phí vận chuyển, chi phí bọc đệm, chi phí chênh lệch giá trị hàng đổi. Sản phẩm kích thước ngoại khổ quý khách vui
+    Top-3: score=0.6094 doc_id=doi-tra-hang-thegioinem chunk_id=doi-tra-hang-thegioinem#7
+           ## 1. Quy định đổi hàng | Nệm kích thước chuẩn | Trong vòng 14 ngày kể từ ngày nhận hàng | Chưa sử dụng hoặc đã sử dụng nhưng còn đầy đủ bao bì, tem và phiếu bảo hành. Không đổi hà
+
+[3] Query: Với đơn hàng COD tại Smart HomeKit, người mua phải cung cấp thông tin gì để nhận tiền hoàn trả?
+    Filter: {}
+    Gold: Người mua phải cung cấp thông tin tài khoản ngân hàng.
+    Top-1: score=0.6471 doc_id=doi-tra-hang-smarthomekit chunk_id=doi-tra-hang-smarthomekit#11
+           ## II. Quy định hoàn tiền Smart HomeKit sẽ chỉ hoàn tiền cho Người mua khi Smart HomeKit xác nhận đã nhận được Hàng trả lại. Trong trường hợp Người mua không phản hồi trong khoảng 
+    Top-2: score=0.6385 doc_id=doi-tra-hang-smarthomekit chunk_id=doi-tra-hang-smarthomekit#6
+           ## II. Quy định hoàn tiền Lệ phí hoàn trả: phí hoàn trả sẽ hoàn toàn do Smart HomeKit chi trả hoàn toàn nếu lỗi đó thuộc về công ty. Hình thức hoàn trả: Sẽ đổi mới sản phẩm cho khá
+    Top-3: score=0.6320 doc_id=doi-tra-hang-smarthomekit chunk_id=doi-tra-hang-smarthomekit#8
+           ## II. Quy định hoàn tiền Smart HomeKit Đảm bảo là một dịch vụ cung cấp bởi Smart HomeKit, theo yêu cầu của Người dùng, để hỗ trợ Người dùng trong việc giải quyết các xung đột có t
+
+[4] Query: Theo chính sách 102 ngày ngủ thử Tatana của Thế Giới Nệm, thời gian xử lý hoàn tiền là bao lâu?
+    Filter: {}
+    Gold: Trong vòng 14 ngày làm việc kể từ khi Thế Giới Nệm nhận lại sản phẩm và xác nhận sản phẩm đạt điều kiện.
+    Top-1: score=0.7490 doc_id=doi-tra-hang-thegioinem chunk_id=doi-tra-hang-thegioinem#15
+           ## 3. Chính sách 102 ngày ngủ thử sản phẩm Tatana Yêu cầu trả hàng phải được gửi trong vòng 102 ngày kể từ ngày nhận nệm. Thời gian xử lý hoàn tiền: Trong vòng 14 ngày làm việc kể 
+    Top-2: score=0.7470 doc_id=doi-tra-hang-thegioinem chunk_id=doi-tra-hang-thegioinem#16
+           ## 3. Chính sách 102 ngày ngủ thử sản phẩm Tatana - Email: thegioinem.com@gmail.com - Hoặc điền biểu mẫu đăng ký đổi/trả hàng “102 ngày ngủ thử cùng Tatana”. 1. Nhân viên kiểm tra 
+    Top-3: score=0.7361 doc_id=doi-tra-hang-thegioinem chunk_id=doi-tra-hang-thegioinem#12
+           ## 3. Chính sách 102 ngày ngủ thử sản phẩm Tatana Nếu sau 102 ngày, khách hàng hài lòng, ngủ ngon và chia sẻ cảm nhận tích cực trên các nền tảng công khai, Thế Giới Nệm sẽ tặng khá
+
+[5] Query: Khách mua hàng online tại XTREND được yêu cầu đổi trả trong thời gian bao lâu?
+    Filter: {}
+    Gold: Trong vòng 07 ngày kể từ khi nhận hàng.
+    Top-1: score=0.6190 doc_id=doi-tra-hang-xtrend chunk_id=doi-tra-hang-xtrend#6
+           ## Chính sách kiểm hàng Trường hợp XTREND đóng hàng đúng theo đơn hàng, nhưng khách hàng thay đổi nhu cầu, khách hàng có thể yêu cầu đổi trả và áp dụng chính sách đổi trả hàng hóa.
+    Top-2: score=0.6074 doc_id=doi-tra-hang-xtrend chunk_id=doi-tra-hang-xtrend#5
+           ## Chính sách kiểm hàng Trường hợp XTREND đóng sai đơn hàng theo yêu cầu của khách, khách có thể không nhận hàng, không thanh toán. Trong trường hợp đơn hàng đã thanh toán, khách h
+    Top-3: score=0.5898 doc_id=doi-tra-hang-thegioinem chunk_id=doi-tra-hang-thegioinem#10
+           ## 2. Quy định trả hàng Phí Đổi/Trả hàng (nếu có) chưa bao gồm chi phí vận chuyển, chi phí bọc đệm, chi phí chênh lệch giá trị hàng đổi. Sản phẩm kích thước ngoại khổ quý khách vui

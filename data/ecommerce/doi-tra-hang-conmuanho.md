@@ -1,30 +1,22 @@
 ---
-doc_id: "doi-tra-hang-conmuanho"
-title: "Chính sách đổi trả hàng hóa – Cơn Mưa Nhỏ"
-source_url: "https://conmuanho.com.vn/pages/chinh-sach-doi-tra-hang-hoa"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "buyer"
-category: "doi-tra-hang"
+doc_id: doi-tra-hang-conmuanho
+title: Chính sách đổi trả hàng hóa
+source_url: https://conmuanho.com.vn/pages/chinh-sach-doi-tra-hang-hoa
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: buyer
+category: doi-tra-hang
 ---
 
-# Chính sách đổi trả hàng hóa – Cơn Mưa Nhỏ
+# Chính sách đổi trả hàng hóa
 
-Chính sách đổi trả hàng hóa – Cơn Mưa Nhỏ
-
-Trang chủ
-
-Chính sách đổi trả hàng hóa
-
-Chính sách đổi trả hàng hóa
-
-1. PHẠM VI ÁP DỤNG
+## 1. Phạm vi áp dụng
 
 a. Việc đổi trả hàng hóa chỉ được áp dụng đối với những đơn hàng đặt dư so với nhu cầu sử dụng thực tế, thiết kế không vừa không gian, hoặc thay đổi nhu cầu sử dụng. Sau khi được tư vấn và thương thảo mà Khách hàng vẫn có yêu cầu đổi trả hàng, Cơn Mưa Nhỏ sẽ xem xét, xử lý theo từng trường hợp cụ thể.
 
 b. Trường hợp sản phẩm được xác định là không thể sử dụng, hàng giả, hàng nhái hoặc hàng không đạt chất lượng như đã cam kết, Cơn Mưa Nhỏ sẽ tiến hành đổi trả hàng hóa ngay lập tức và chịu toàn bộ chi phí vận chuyển phát sinh.
 
-2. CHÍNH SÁCH TRẢ HÀNG
+## 2. Chính sách trả hàng
 
 a. Trong thời gian mười lăm (15) ngày kể từ ngày mua hàng (căn cứ trên hóa đơn mua hàng), Khách hàng sẽ chịu mười phần trăm (10%) giá trị hàng trả về.
 
@@ -34,7 +26,7 @@ c. Giá trị trả hàng không vượt quá 10% giá trị đơn hàng.
 
 d. Sản phẩm được trả phải đáp ứng đầy đủ điều kiện đổi trả hàng như quy định bên dưới.
 
-3. CHÍNH SÁCH ĐỔI HÀNG
+## 3. Chính sách đổi hàng
 
 a. Trong thời gian mười lăm (15) ngày kể từ ngày mua hàng (căn cứ trên hóa đơn mua hàng), Khách hàng được quyền đề nghị đổi hàng.
 
@@ -46,7 +38,7 @@ d. Trong trường hợp khách hàng đặt cọc để giữ hàng, nếu có 
 
 e. Sản phẩm được đổi phải đáp ứng đầy đủ điều kiện đổi trả hàng như quy định bên dưới.
 
-4. ĐIỀU KIỆN ĐỔI TRẢ HÀNG
+## 4. Điều kiện đổi/trả hàng
 
 Hàng hóa chỉ được chấp nhận đổi trả khi đáp ứng các điều kiện cụ thể như sau:
 
@@ -66,7 +58,7 @@ Khi đủ các điều kiện trên, Cơn Mưa Nhỏ sẽ tiến hành đổi, t
 
 Trong trường hợp không đáp ứng được các điều kiện nêu trên, sản phẩm sẽ không được đổi, trả. Thay vào đó, sản phẩm sẽ được xem xét bảo hành theo chính sách của Cơn Mưa Nhỏ.
 
-5. QUY TRÌNH THỰC HIỆN ĐỔI TRẢ HÀNG HÓA
+## 5. Quy trình thực hiện đổi/trả hàng hóa
 
 Khách hàng cần thực hiện các bước sau đây:
 
@@ -80,19 +72,19 @@ d. Bước 4: Nhân viên bán hàng/đối tác Cơn Mưa Nhỏ xác nhận th�
 
 e. Bước 6: Khách hàng vận chuyển hàng đến địa điểm do nhân viên bán hàng/đối tác Cơn Mưa Nhỏ chỉ định.
 
-Lưu ý:
+### Lưu ý
 
 Khách hàng cần gửi kèm các chứng từ và vật dụng sau đây:
 
-Hóa đơn bán hàng hoặc đính kèm giấy ghi chú có mã đơn hàng (nếu có);
+- Hóa đơn bán hàng hoặc giấy ghi chú có mã đơn hàng (nếu có);
 
-Hóa đơn giá trị gia tăng (nếu có);
+- Hóa đơn giá trị gia tăng (nếu có);
 
-Phụ kiện đi kèm sản phẩm và tặng khuyến mãi kèm theo (nếu có);
+- Phụ kiện và quà tặng khuyến mãi đi kèm sản phẩm (nếu có).
 
 Trong quá trình chuẩn bị gửi hàng, Khách hàng cần đóng gói, chèn lót sản phẩm như ban đầu và đúng quy cách vận chuyển để tránh sản phẩm bị bể, vỡ hoặc hư hỏng trong quá trình vận chuyển.
 
-6. CHÍNH SÁCH HOÀN TIỀN VÀ PHÍ XỬ LÝ
+## 6. Chính sách hoàn tiền và phí xử lý
 
 ​​​​​​​​​​​​​​a. Cơn Mưa Nhỏ sẽ hỗ trợ Khách hàng trả lại sản phẩm và không thu thêm bất kỳ phụ phí nào trong đa số các trường hợp được đồng ý đổi trả. Trong một số trường hợp đặc biệt (Ví dụ: đối tác Cơn Mưa Nhỏ không áp dụng chính sách miễn phí đổi trả và/hoặc lý do đổi trả không phát sinh từ/ liên quan đến lỗi của sản phẩm), Khách hàng phải chịu chi phí chuyển hàng đến địa chỉ nhận đổi trả được chỉ định.
 
@@ -102,73 +94,6 @@ c. Với đơn hàng đã được thanh toán bằng chuyển khoản trước 
 
 d. Lưu ý: Cơn Mưa Nhỏ sẽ hoàn lại giá trị sản phẩm mà Khách hàng đã thanh toán. Phí vận chuyển, phụ phí, phí đóng gói và các khuyến mãi được áp dụng (nếu có) sẽ không được hoàn lại.
 
-7. HIỆU LỰC
+## 7. Hiệu lực
 
 Quyết định của Cơn Mưa Nhỏ về việc đổi trả là quyết định cuối cùng. Cơn Mưa Nhỏ có toàn quyền chỉnh sửa, bổ sung, thay đổi chính sách có liên quan đến đổi – trả và sẽ công khai các chính sách sau khi bổ sung, sửa đổi trên website https://conmuanho.com.vn/.
-
-Danh mục trang
-
-Tìm kiếm
-
-Giới thiệu
-
-Điều khoản dịch vụ
-
-Công cụ Phối cảnh
-
-Chính sách giao nhận vào lắp đặt
-
-Chính sách giá bán
-
-Chính sách bảo hành
-
-Chính sách đổi trả hàng hóa
-
-Chính sách bảo mật thông tin
-
-HÃY LIÊN HỆ VỚI CHÚNG TÔI!
-
-Chúng tôi luôn sẵn sàng hỗ trợ và tư vấn cho bạn để có sản phẩm tốt nhất
-
-Gửi
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy
-and Terms of Service apply.
-
-Giao hàng nhanh chóng
-
-Miễn phí cho đơn hàng trên 3 triệu
-
-Chính sách bảo hành
-
-Bảo hảnh 12 tháng, đổi trả 15 ngày
-
-Hỗ trợ 24/7
-
-Với các kênh chat, email, phone
-
-Gọi ngay cho chúng tôi
-
-Chat với chúng tôi qua Zalo
-
-Đăng kí thông tin và để lại lời nhắn
-
-Xem địa chỉ doanh nghiệp
-
-×
-
-Để lại lời nhắn cho chúng tôi
-
-This site is protected by reCAPTCHA and the Google
-Privacy Policy
-and Terms of Service apply.
-
-Gửi cho chúng tôi
-
-Đăng kí thông tin thành công
-
-Cảm ơn bạn đã để lại thông tin
-Chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất
-
-Thông báo sẽ tự động tắt sau 5 giây...

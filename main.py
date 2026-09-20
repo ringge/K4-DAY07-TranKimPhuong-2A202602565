@@ -59,9 +59,43 @@ def load_documents_from_files(file_paths: list[str]) -> list[Document]:
 
 
 def demo_llm(prompt: str) -> str:
-    """A simple mock LLM for manual RAG testing."""
-    preview = prompt[:400].replace("\n", " ")
-    return f"[DEMO LLM] Generated answer from prompt preview: {preview}..."
+    """Generate an answer with an OpenAI-compatible chat completion API."""
+    load_dotenv(override=False)
+
+    api_key = os.getenv("OPENAI_API_KEY")
+    base_url = os.getenv("OPENAI_BASE_URL")
+    model = os.getenv("OPENAI_LLM_MODEL")
+
+    missing = [
+        name
+        for name, value in (
+            ("OPENAI_API_KEY", api_key),
+            ("OPENAI_BASE_URL", base_url),
+            ("OPENAI_LLM_MODEL", model),
+        )
+        if not value
+    ]
+    if missing:
+        raise RuntimeError(
+            "Missing LLM configuration in .env: " + ", ".join(missing)
+        )
+
+    try:
+        from openai import OpenAI
+    except ImportError as exc:
+        raise RuntimeError(
+            "The OpenAI SDK is required. Install it with: pip install openai"
+        ) from exc
+
+    client = OpenAI(api_key=api_key, base_url=base_url)
+    response = client.chat.completions.create(
+        model=model,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    answer = response.choices[0].message.content
+    if not answer:
+        raise RuntimeError("The LLM returned an empty response.")
+    return answer
 
 
 def run_manual_demo(question: str | None = None, sample_files: list[str] | None = None) -> int:
