@@ -68,8 +68,13 @@ class TextExtractor(HTMLParser):
             self.parts.append(data)
 
     def text(self) -> str:
-        text = re.sub(r"[ \t]+", " ", "".join(self.parts))
-        text = re.sub(r"\n[ \t]+", "\n", text)
+        # HTMLParser preserves newlines found in text nodes. Some pages use
+        # Windows CRLF newlines, which prevents a ``\n{3,}`` pattern from
+        # recognizing runs of otherwise blank lines. Normalize line endings
+        # before collapsing whitespace so every source behaves consistently.
+        text = re.sub(r"\r\n?", "\n", "".join(self.parts))
+        text = re.sub(r"[^\S\n]+", " ", text)
+        text = re.sub(r" *\n *", "\n", text)
         return re.sub(r"\n{3,}", "\n\n", text).strip()
 
     def page_title(self) -> str:
